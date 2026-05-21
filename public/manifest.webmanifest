@@ -1,0 +1,18 @@
+{
+  "name": "Sadhana OS — The Yogic River from Misidentification to Living Awareness",
+  "short_name": "Sadhana OS",
+  "description": "A sacred 18-stage Yogic Science portal from right seeing to living realization.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0704",
+  "theme_color": "#0a0704",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
